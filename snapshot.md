@@ -8,6 +8,6 @@
 
 ### New Block
 ```
-rm -rf ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/full
-curl -L http://195.26.247.253:81/full.tar.lz4 | tar -xz -C ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/
+rm -rf /root/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/full
+curl -L http://195.26.247.253:81/full.tar.lz4 | tar -xz -C /root/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/
 ```
