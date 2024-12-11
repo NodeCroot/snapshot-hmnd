@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/91562185/313867169-7ed59118-10e8-4601-bfc1-9de06b67e6b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241206T085946Z&X-Amz-Expires=300&X-Amz-Signature=e71733c7888c6c400d6555c1101baac7b317fae8e8ad2ea4cf21906356942147&X-Amz-SignedHeaders=host)
+![image]([https://github-production-user-asset-6210df.s3.amazonaws.com/91562185/313867169-7ed59118-10e8-4601-bfc1-9de06b67e6b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241206T085946Z&X-Amz-Expires=300&X-Amz-Signature=e71733c7888c6c400d6555c1101baac7b317fae8e8ad2ea4cf21906356942147&X-Amz-SignedHeaders=host](https://s3.coinmarketcap.com/static-gravity/image/690eb438101a43fa88d48563c3b237ab.png))
 
 </h1>
 
