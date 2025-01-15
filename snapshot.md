@@ -9,6 +9,6 @@
 ### New Block
 ```
 rm -rf ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/full/
-curl -L http://195.26.247.253:81/full.tar.lz4 | lz4 -dc - | tar -xf - -C ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/
+curl -L http://146.190.89.138:81/full.tar.lz4 | lz4 -dc - | tar -xf - -C ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/
 
 ```
