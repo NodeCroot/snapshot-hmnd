@@ -6,6 +6,10 @@
 
 </h1>
 
+
+DONATE HERE 
+hmoy4YjHhLb48QeoK7Dd9ye3E4YirJmg7vbrkcPjRLt47Y485
+
 ### New Block
 ```
 rm -rf ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/full/
