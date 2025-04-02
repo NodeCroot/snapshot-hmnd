@@ -16,3 +16,6 @@ rm -rf ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/
 curl -L http://104.36.23.244:81/full.tar.lz4 | lz4 -dc - | tar -xf - -C ~/.humanode/workspaces/default/substrate-data/chains/humanode_mainnet/db/
 
 ```
+
+
+Suport By CryptoNodeID
